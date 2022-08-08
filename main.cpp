@@ -61,7 +61,7 @@ struct Line
     }
 };
 
-
+// my name is amigo
 int main()
 {
     RenderWindow app(VideoMode(width, height), "Outrun Racing!");
